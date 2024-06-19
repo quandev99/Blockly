@@ -5,6 +5,7 @@ import "blockly/blocks";
 
 import "./Blocks/dom";
 import "./Blocks/cyf";
+import "./Blocks/customBlock";
 import useBlockly from "./Blockly/useBlockly";
 import { toolbox } from "./Data/toolbox";
 
